@@ -8,6 +8,6 @@ to use a playbook-:
 
 So for this ansible setup:
 
-	ansible-playbook site.yml -f 10
+	ansible-playbook site-dir.com/site.yml -f 10
 
 the "-f 10" argument runs 10 parallel operations
