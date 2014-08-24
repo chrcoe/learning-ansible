@@ -10,4 +10,4 @@ So for this ansible setup:
 
 	ansible-playbook site-dir.com/site.yml -i site-dir.com/dev-hosts -f 10
 
-the "-f 10" argument runs 10 parallel operations
+the "-f 10" argument runs 10 parallel operations ... this is not required

@@ -1,0 +1,9 @@
+[centos7]
+SANDBOX-LOCAL
+
+[webservers]
+SANDBOX
+SANDBOX-LOCAL
+
+[dbservers]
+SANDBOX

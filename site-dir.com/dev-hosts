@@ -1,9 +1,9 @@
-[centos7]
-SANDBOX-LOCAL
+# these must be accesible on the management machine
 
 [webservers]
-SANDBOX
-SANDBOX-LOCAL
+WEB.SANDBOX
+webtest
 
 [dbservers]
-SANDBOX
+DB.SANDBOX
+dbtest
