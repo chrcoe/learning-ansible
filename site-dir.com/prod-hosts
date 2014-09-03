@@ -1,5 +1,5 @@
 [webservers]
-SANDBOX
+prod-web
 
 [dbservers]
-SANDBOX
+prod-db
